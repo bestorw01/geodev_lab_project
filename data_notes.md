@@ -36,5 +36,5 @@
 - Downloaded: 9th September, 2026
 - 46,146 Features Points
 - Columns: FID (Integer), globalid (String), uniq_id (Integer), timestamp(Date), editor (String), latitude (Real), longitude (Real), wardname (String), wardcode (String), lganame(String), lgacode(String), statename (String), statecode (String), updated_on (Date), accessblty (String), func_stats (String), category (String), ownership (String), type (String), source (String), alt_name (String), prmry_name (String)
-- No null in Settlement point Names
-- It covers my area of study fully
+- No null in Health care facilities point Names
+- It covers my area of study fully and it is mixed with but Primary Health Care, Private Owned Health Facilities, Clinics, Pharmacy and Dispensries.
