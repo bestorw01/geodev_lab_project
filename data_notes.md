@@ -16,6 +16,12 @@
 - No null in Ward Names
 - It covers my Wards fully
 
+## Jos_South_LGA_DEM
+- Source: https://portal.opentopography.org
+- Downloaded: 14th September, 2026
+- Int16 - GeoTIFF
+- The DEM raster data covers all the study area fully.
+
 ## Jos_south_LGA_Roads via QuickOSM
 - Query: highway=* within Jos South LGA extend
 - Extracted: 10th September, 2026
