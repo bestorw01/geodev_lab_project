@@ -16,7 +16,7 @@
 - No null in Ward Names
 - It covers my Wards fully
 
-## Jos_South_LGA_DEM
+## Jos_South_LGA_DEM via OpenTopography
 - Source: https://portal.opentopography.org
 - Downloaded: 14th September, 2026
 - Int16 - GeoTIFF
