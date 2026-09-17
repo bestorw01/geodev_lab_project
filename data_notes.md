@@ -16,13 +16,6 @@
 - No null in Ward Names
 - It covers my Wards fully
 
-## CRS and Preparation
-- All scource layers arrived in EPSG: 4326
-- Study Area: Jos South, was extraced from Grid3 Nigeria wards data
-- All layers are clipped to study and reprojected from EPSG:4326 WGS84 to EPSG: 32632 (UTM 32N)
-- Area Check: Jos South 558.6 Km2, matches international published data figure, while locally published data are varies with 512 - 518 km2.
-- Working files are in data/processed/, raw files untouched.
-
 ## Jos_South_LGA_DEM via OpenTopography
 - Source: https://portal.opentopography.org
 - Downloaded: 14th September, 2026
@@ -50,4 +43,11 @@
 - 46,146 Features Points
 - Columns: FID (Integer), globalid (String), uniq_id (Integer), timestamp(Date), editor (String), latitude (Real), longitude (Real), wardname (String), wardcode (String), lganame(String), lgacode(String), statename (String), statecode (String), updated_on (Date), accessblty (String), func_stats (String), category (String), ownership (String), type (String), source (String), alt_name (String), prmry_name (String)
 - No null in Health care facilities point Names
+
+## CRS and Preparation
+- All scource layers arrived in EPSG: 4326
+- Study Area: Jos South, was extraced from Grid3 Nigeria wards data
+- All layers are clipped to study and reprojected from EPSG:4326 WGS84 to EPSG: 32632 (UTM 32N)
+- Area Check: Jos South 558.6 Km2, matches international published data figure, while locally published data are varies with 512 - 518 km2.
+- Working files are in data/processed/, raw files untouched.
 - It covers my area of study fully and it is mixed with but Primary Health Care, Private Owned Health Facilities, Clinics, Pharmacy and Dispensries.
