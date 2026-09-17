@@ -16,6 +16,13 @@
 - No null in Ward Names
 - It covers my Wards fully
 
+## CRS and Preparation
+- All scource layers arrived in EPSG: 4326
+- Study Area: Jos South, was extraced from Grid3 Nigeria wards data
+- All layers are clipped to study and reprojected from EPSG:4326 WGS84 to EPSG: 32632 (UTM 32N)
+- Area Check: Jos South 558.6 Km2, matches international published data figure, while locally published data are varies with 512 - 518 km2.
+- Working files are in data/processed/, raw files untouched.
+
 ## Jos_South_LGA_DEM via OpenTopography
 - Source: https://portal.opentopography.org
 - Downloaded: 14th September, 2026
