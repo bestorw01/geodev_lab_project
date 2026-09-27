@@ -4,10 +4,10 @@
 - Which settlement are within 5km of healthcare facilities in Jos South LGA, Plateau State?
 
 ## Operation
--Buffered healthcare facilities by 5000m(5km), then applied joined and disjoined against settlement, to show settlements within and outside of 5km radius.
+- Buffered healthcare facilities by 5000m(5km), then applied joined and disjoined against settlement, to show settlements within and outside of 5km radius.
 
 ## Expected
-A few settlements to be  within the buffer area. 
+- A few settlements to be  within the buffer area. 
 
 ## Got
 - Almost 15 of settlement was in the buffer coverage of the study area leaving just 2 settlement outside the buffer zones.
