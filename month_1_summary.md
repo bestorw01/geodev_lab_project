@@ -13,7 +13,7 @@
 - Almost 15 of settlement was in the buffer coverage of the study area leaving just 2 settlement outside the buffer zones.
 
 ## What surprised me
-- Based on the data, only two 2 settlements where not withing the 5km buffer
+- Based on the data, only two 2 settlements where not withing the 5km buffer.
 
 ## Limitations, stated plainly
 - The buffer distance considers straight and not road or travel distance.
@@ -25,6 +25,6 @@
 - Population data for each ward.
 
 ## The Map 
-### Spatial Accessibility of Settlements to Health Facilities Within a 5-km Buffer in Jos South LGA, Plateau State
+### Spatial Accessibility of Settlements to Health Facilities Within a 5-km Buffer in Jos South LGA, Plateau State.
 
 <img width="3507" height="2480" alt="Spatial Accessibility of Settlements to Health Facilities Within a 5-km Buffer in Jos South LGA, Plateau State" src="https://github.com/user-attachments/assets/f1137747-bbf4-4326-8296-0b803e6bd758" />
