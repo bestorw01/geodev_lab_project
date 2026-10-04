@@ -12,7 +12,7 @@ Built over twelve month with Geodev Africa, cohort One, see the following linked
 
 ## Month 2
 Development environment and early Python
-- Week 5: set up Python, VS Code and the terminal. hello.py runs
+- Week 5: set up Python, VS Code and the terminal. hello.py runs. See [Screenshots](https://github.com/bestorw01/geodev_lab_project/tree/main/screenshots)
 
 
 
