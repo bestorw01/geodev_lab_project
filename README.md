@@ -13,7 +13,7 @@ Built over twelve month with Geodev Africa, cohort One, see the following linked
 ## Month 2
 Development environment and early Python
 - **Week 5**: set up Python, VS Code and the terminal. hello.py runs. See [Screenshots](https://github.com/bestorw01/geodev_lab_project/tree/main/screenshots)
-- - **Week 6**: Week 6: set up the project with uv and added pandas. check.py prints the pandas version. See [Screenshot](https://github.com/bestorw01/geodev_lab_project/tree/main/screenshots)
+- **Week 6**: Week 6: set up the project with uv and added pandas. check.py prints the pandas version. See [Screenshot](https://github.com/bestorw01/geodev_lab_project/tree/main/screenshots)
 
 
 
