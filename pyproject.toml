@@ -1,0 +1,20 @@
+[project]
+name = "geoclean"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Kingsley Bestor", email = "bestorw@hotmail.com" }
+]
+requires-python = ">=3.12"
+dependencies = [
+    "geopandas>=1.2.0",
+    "pandas>=3.0.6",
+]
+
+[project.scripts]
+geoclean = "geoclean:main"
+
+[build-system]
+requires = ["uv_build>=0.12.21,<0.13.0"]
+build-backend = "uv_build"
