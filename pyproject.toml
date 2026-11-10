@@ -1,5 +1,5 @@
 [project]
-name = "geoclean"
+name = "geodev-lab-project"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
@@ -9,11 +9,13 @@ authors = [
 requires-python = ">=3.12"
 dependencies = [
     "geopandas>=1.2.0",
+    "matplotlib>=3.11.2",
     "pandas>=3.0.6",
+    "rasterio>=1.5.2",
 ]
 
 [project.scripts]
-geoclean = "geoclean:main"
+geodev-lab-project = "geodev_lab_project:main"
 
 [build-system]
 requires = ["uv_build>=0.12.21,<0.13.0"]
