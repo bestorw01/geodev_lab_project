@@ -1,0 +1,17 @@
+import pandas as pd
+import geopandas as gpd
+
+table = pd.read_csv("./data/raw/health_facilities.csv")
+print(table.head())
+
+facilities = gpd.GeoDataFrame(
+    table, 
+    geometry=gpd.points_from_xy(table["longitude"], table["latitude"]),
+    crs="EPSG:4326"
+    )
+
+print(facilities.head())
+print(facilities.crs)
+
+facilities.to_file("./data/processed/facilities.gpkg", layer="facilities")
+print("Saved: ", len(facilities), "facilities")
